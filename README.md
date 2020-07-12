@@ -1,4 +1,4 @@
-## Hey am Crispus a Web Developer 
+## Hey am Crispus a Web Developer :sparkles: :sparkles:
 <!--
 **makwasi1/makwasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
